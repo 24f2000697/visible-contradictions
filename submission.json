@@ -1,0 +1,6 @@
+{
+  "prompt": "An ancient oak tree in a forest, photographed up close. The tree is alive and growing — but something is deeply wrong. Perfectly uniform metal measuring rings have been bolted around the trunk at precise intervals, every few centimeters, hundreds of them covering the entire trunk. The tree has continued growing but the rings have cut into the bark, deforming it. Where the rings are tightest the wood has bulged, split and warped around the metal. The tree has grown in response to the measurements placed on it — its shape now dictated entirely by the grid of rings rather than natural growth. The measuring instruments have become the tree's skeleton. The original organic form is completely lost, replaced by the geometry of measurement itself. The tree is still alive but unrecognizable as a tree. Dense forest background, dramatic side lighting, photorealistic, cinematic, ultra detailed. Absolutely no text, no numbers, no charts, no graphs, no labels, no annotations, no written symbols of any kind anywhere in the image.",
+  "model": "Gemini",
+  "paradox": "Goodhart's Law",
+  "visual_logic": "A living tree deformed entirely by its own measuring rings — the measurement apparatus has become the tree's structure, replacing organic growth with the rigid geometry of the metric itself."
+}
